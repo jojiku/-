@@ -1,19 +1,19 @@
-В данной работе реализован метод главных компонент на языке Python. План работы:
+Here the principal component analysis is implemented in Python. Work plan:
 
-1) Выполнить кластерный анализ:
-a. подобрать файл для проведения кластерного анализа.
-b. описать полученные кластеры;
-c. привести пояснения и выводы.
+1) Perform cluster analysis:
+a. select a file for cluster analysis.
+b. describe the resulting clusters;
+c. give explanations and conclusions.
 
-2) Применить Метод Главных Компонент (МГК, PCA):
-a. проверить применимость метода;
-b. выполнить сжатие пространства переменных;
-c. проанализировать матрицу нагрузок;
-d. сделать выводы
+2) Apply Principal Component Analysis (PCA):
+a. check the applicability of the method;
+b. perform variable space compression;
+c. analyze the load matrix;
+d. draw conclusions
 
-3) Выполнить кластерный анализ на новых переменных:
-a. выполнить кластерный анализ на отобранных Главных компонентах;
-b. сравнить результаты пунктов 1 и 2 по количеству полученных кластеров и их
-интерпретации.
+3) Perform cluster analysis on new variables:
+a. perform cluster analysis on selected Principal Components;
+b. compare the results of points 1 and 2 in terms of the number of clusters obtained and their
+interpretation.
 
-4) Подведение итогов по проделанной работе.
+4) Work sum up.
